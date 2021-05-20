@@ -1,0 +1,70 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-weight: 700;
+    font-size: 3rem;
+    color: #707070;
+}
+
+.bg-blue{
+    background-color: #17A2B8;
+}
+
+.bg-pink{
+    background-color: var(--pink);
+}
+
+#nav-items, #nav-items a{
+    color: #FFFFFF;
+    font-weight: normal;
+}
+
+#productos{
+    padding-bottom: 6rem;
+}
+
+#pago{
+    vertical-align: bottom;
+    font-size: 2rem;
+}
+
+#pago h2{
+    font-weight: 700;
+    vertical-align: middle;
+    margin-top: auto;
+}
+
+.icon-pago{
+    font-size: 3rem;
+}
+
+.brand-footer{
+    align-items: center;
+    padding: 1.5rem;
+    
+}
+.brand-footer img{
+    height: 5rem;
+    margin-bottom: 1rem;
+}
+
+.list-group-item h5{
+    font-weight: 700;
+    font-size: 1.2em;
+    color: #373A3C;
+}
+
+.card-subt{
+    font-weight: normal;
+    font-size: 1em;
+    color: #373A3C;
+}
+
+.card-text{
+    color: #373A3C;
+}
+
+.card-info{
+    font-size: 0.7em;
+}
